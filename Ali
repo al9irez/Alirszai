@@ -93,7 +93,7 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "ali § 0",
+        "warp § 0",
         "آلمان🇩🇪WoW § 1"
       ],
       "default": "auto"
